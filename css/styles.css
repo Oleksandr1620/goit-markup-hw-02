@@ -71,11 +71,11 @@ a {
 }
 
 .hero-button {
-  border-radius: 4px;
+  /*border-radius: 4px;
   padding: 16px 32px;
   width: 169px;
   height: 56px;
-  box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
+  box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15); */
   background: #4d5ae5;
   color: #fff;
   cursor: pointer;
@@ -96,7 +96,6 @@ a {
 }
 
 .description {
-  font-weight: 400;
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
@@ -124,7 +123,6 @@ a {
 }
 
 .team-description {
-  font-weight: 400;
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
@@ -149,7 +147,6 @@ a {
 }
 
 .footer-description {
-  font-weight: 400;
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
