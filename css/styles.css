@@ -99,6 +99,10 @@ a {
 
 /* OUR TEAM */
 
+.team {
+  background-color: #f4f4fd;
+}
+
 .team-title {
   font-weight: 700;
   font-size: 36px;
@@ -106,6 +110,10 @@ a {
   letter-spacing: 0.02em;
   text-align: center;
   color: #2e2f42;
+}
+
+.team-list-item {
+  background-color: #ffffff;
 }
 
 .team-list-title {
