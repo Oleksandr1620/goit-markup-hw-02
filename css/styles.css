@@ -61,16 +61,28 @@ a {
 
 /* HERO */
 
+.hero {
+  background-color: #2e2f42;
+}
+
 .hero-title {
   font-weight: 700;
   font-size: 56px;
-  line-height: 1.07143;
+  line-height: 1.07;
   letter-spacing: 0.02em;
   text-align: center;
   color: #fff;
 }
 
+.hero-button:hover {
+  background-color: #404bbf;
+}
+
 .hero-button {
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.04em;
   background: #4d5ae5;
   color: #fff;
   cursor: pointer;
